@@ -1,2 +1,2 @@
 # Supernova Shipyard Wiki
- click the wiki tab
+ [Click the Wiki tab.](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki)
