@@ -1,0 +1,48 @@
+Ship: 
+Faction: 
+Producer: 
+Condition: 
+Loadout: 
+Size 7: 
+Role: 
+Dimensions (WxLxH): 33x53x36m
+
+Size 1: Puny (Lifeboat)
+Size 2: Tiny (Fighter)
+Size 3: Overtiny (Gunship)
+Size 4: Small (Corvette)
+Size 5: Submedium (Frigate)
+Size 6: Medium (Destroyer)
+Size 7: Overmedium (Cruiser)
+Size 8: Large (Carrier)
+Size 9: Titanic (Dreadnought)
+
+Greylock Yards (Pir Python, Manticore, Reaver)
+Astrotech Space Industries (Crusader)
+Portsmouth Shipyards (Katar)
+Aerolith Manufactory (Starbridge, Modbridge, Warbridge, Skyboat)
+Atinoda Corporation (Bat)
+Australis Industries (Abomination, Firebird, Phoenix, Caravel)
+Australis Heavy Industries (Siegfried, Claymore, Enterprise)
+Porsche AG (Valkyrie, Starscreamer)
+Sigma Shipyards (Hound, Defender, Pegasus, Dragonfly, Leviathan, Echo, Marten, Vole, Muskrat)
+Tre'pira, Ver'ash & P'aedt (Striker,  Arachnid, Manta, Zephyr, Scarab)
+Produced locally (Escape Pod, Terrapin, BOB, Dart, Arrow, Javelin)
+Dark Earth (Scythe)
+Comara Racing (Viper)
+Comara Arms (Fed Python, Anaconda)
+Chick & Partners (Reb Python, Reb Mongoose)
+Pisces Heavy Industries (Glaive)
+GLi-Tech Arms (Thunderhead, Hardhat, Courser, Yellowjacket)
+Rauther Power Industries (Mongoose)
+Tre'pira (Sprite)
+New Ireland
+
+Ship: Hyperioid
+Faction: Organic Weaponized Vonn Neumann Probes
+Producer: Produced locally
+Breed: Central
+Loadout: Solar Lance
+Size 4: Small (Corvette)
+Role: Space Cow
+Dimensions: 

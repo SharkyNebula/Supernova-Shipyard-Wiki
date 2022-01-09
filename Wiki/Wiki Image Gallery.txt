@@ -1,0 +1,56 @@
+# Civilian Valkyrie
+
+**Base Ship**
+
+Ship: Valkyrie
+Faction: Federation Civilians
+Producer: Porsche AG
+Condition: Standard
+Loadout: Hybrid Shots, Fierce Rockets
+Size 4: Small (Corvette)
+Role: Turreted Courier
+Dimensions (WxLxH): 48x77x37m
+
+## Representative Images
+
+| ![Preview](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Preview.png)| ![Hail](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Hail.png)|
+|:--:|:--:|
+| <b>Preview (200 x 200)</b>| <b>Hail (200 x 200)</b>|
+
+| ![Demo Reel](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Demo%20Reel.png)|
+|:--:|
+| <b>Demo Reel (200 x 800)</b>|
+
+| ![Scan Lines](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Target%20Scan%20Lines%4064.png)| ![Real](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Target%20Real%4064.png)| ![Wireframe](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Civilian%20Valkyrie%20Target%20Wireframe%20Thick%4064.png)|
+|:--:|:--:|:--:|
+| <b>Scan Lines (128 x 64)</b>| <b>Real (128 x 64)</b>| <b>Wireframe (128 x 64)</b>|
+
+## Ship Parts
+
+| ![Ship](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Ship%20LASIK/Civilian%20Valkyrie%20Gif%20Ship.gif)|
+|:--:|
+| <b>Ship (100x100)</b> _Unique_|
+
+| ![Engine](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Engine/Civilian%20Valkyrie%20Gif%20Engine.gif)|
+|:--:|
+| <b>Engine (138x138)</b> _Unique_|
+
+| ![Shield](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Shield/Civilian%20Valkyrie%20Gif%20Shield.gif)|
+|:--:|
+| <b>Shield (116x116)</b> _Unique_|
+
+| ![Static Shield](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Static%20Shield/Static%20Shield%20Gradient%20Desat.png)|
+|:--:|
+| <b>Static Shield (116x116)</b> _Unique_|
+
+| ![Lights](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Lights/Civilian%20Valkyrie%20Gif%20Lights.gif)|
+|:--:|
+| <b>Lights (116x116)</b> _Unique_|
+
+| ![Weapon](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Weapon/Civilian%20Valkyrie%20Gif%20Weapon.gif)|
+|:--:|
+| <b>Weapon (116x116)</b> _Unique_|
+
+| ![Effects](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Valkyrie/Civilian/Ship%20LASIK/Civilian%20Valkyrie%20Gif%20Effects.gif)|
+|:--:|
+| <b>Effects (135x135)</b>|
