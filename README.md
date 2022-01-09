@@ -1,4 +1,5 @@
 # Supernova Shipyard Wiki
+## Home
 [Ship Index](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/1-Ship-Index): links to art breakdowns of every ship in Supernova.
 
 [Speculative Ships](https://github.com/NebulaTank/Supernova-Shipyard-Wiki/wiki/1-Speculative-Ships): ships I've thought of making.
