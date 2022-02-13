@@ -1,0 +1,17 @@
+![This ship is a Lifepod.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Lifepod%20icon.png)
+
+![This ship is a Fighter.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Fighter%20icon.png)
+
+![This ship is a Gunship.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Gunship%20icon.png)
+
+![This ship is a Corvette.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Corvette%20icon.png)
+
+![This ship is a Frigate.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Frigate%20icon.png)
+
+![This ship is a Destroyer.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Destroyer%20icon.png)
+
+![This ship is a Cruiser.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Cruiser%20icon.png)
+
+![This ship is a Carrier.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Carrier%20icon.png)
+
+![This ship is a Titan.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Icons%20-%20Size%20categories/Titan%20icon.png)
