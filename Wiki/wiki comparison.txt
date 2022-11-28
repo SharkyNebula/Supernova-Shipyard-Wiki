@@ -1,24 +1,10 @@
-### Ship
-| ![The ship's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Ship.gif)| ![The ship's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Ship%20LASIK/Civilian%20Viper%20Gif%20Ship.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
-### Engine
-| ![The engine's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Engine.gif)| ![The engine's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Engine/Civilian%20Viper%20Gif%20Engine.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
-### Shield
-| N/A| ![The shield's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Shield/Civilian%20Viper%20Gif%20Shield.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
-### Lights
-| ![The light's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Asteroid%20Miner/Asteroid%20Miner%20Gif%20Lights.gif)| ![The light's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Dragonfly/Civilian/Lights/Civilian%20Dragonfly%20Gif%20Lights.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
-### Weapon
-| ![The weapon's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Aurora%20Thunderforge/Thunderforge%20Gif%20Weapon.gif)| ![The weapon's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Thunderforge/Aurora/Weapon/Aurora%20Thunderforge%20Gif%20Weapon.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
-### Alt
-| ![The alt's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Aurora%20Thunderforge/Thunderforge%20Gif%20Alt.gif)| ![The alt's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Thunderforge/Aurora/Alt%20LASIK/Aurora%20Thunderforge%20Gif%20Alt.gif)| 
-|:--:|:--:|
-| Nova| SN:GO|
+| ![The ship's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Ship.gif)| ![The engine's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Engine.gif)| N/A| ![The light's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Asteroid%20Miner/Asteroid%20Miner%20Gif%20Lights.gif)| ![The weapon's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Aurora%20Thunderforge/Thunderforge%20Gif%20Weapon.gif)|
+|:--:|:--:|:--:|:--:|:--:|
+| ![The ship's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Ship%20LASIK/Civilian%20Viper%20Gif%20Ship.gif)| ![The engine's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Engine/Civilian%20Viper%20Gif%20Engine.gif)| ![The shield's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Shield/Civilian%20Viper%20Gif%20Shield.gif)| ![The light's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Dragonfly/Civilian/Lights/Civilian%20Dragonfly%20Gif%20Lights.gif)| ![The weapon's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Thunderforge/Aurora/Weapon/Aurora%20Thunderforge%20Gif%20Weapon.gif)| 
+| Ship| Engine| Shield| Lights| Weapon|
+
+| ![The ship's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Ship.gif)| ![The alt's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Aurora%20Thunderforge/Thunderforge%20Gif%20Alt.gif)| ![The engine's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Viper/Viper%20Gif%20Engine.gif)| N/A| ![The light's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Civilian%20Asteroid%20Miner/Asteroid%20Miner%20Gif%20Lights.gif)| ![The weapon's image in Nova.](https://github.com/NebulaTank/SuperNova-Shipyard-Wiki/blob/main/Nova%20Gifs/Aurora%20Thunderforge/Thunderforge%20Gif%20Weapon.gif)|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| ![The ship's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Ship%20LASIK/Civilian%20Viper%20Gif%20Ship.gif)| ![The alt's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Thunderforge/Aurora/Alt%20LASIK/Aurora%20Thunderforge%20Gif%20Alt.gif)| ![The engine's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Engine/Civilian%20Viper%20Gif%20Engine.gif)| ![The shield's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Viper/Civilian/Shield/Civilian%20Viper%20Gif%20Shield.gif)| ![The light's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Dragonfly/Civilian/Lights/Civilian%20Dragonfly%20Gif%20Lights.gif)| ![The weapon's image in SN:GO.](https://github.com/NebulaTank/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Thunderforge/Aurora/Weapon/Aurora%20Thunderforge%20Gif%20Weapon.gif)| 
+| Ship| Alt| Engine| Shield| Lights| Weapon|
+
