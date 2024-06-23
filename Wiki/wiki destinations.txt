@@ -1,0 +1,367 @@
+RANDOM SYSTEM
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+!Random system
+|-
+|<center><big>Federation space object</big></center>
+|}
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+!Random system
+|-
+|<center><big>Federation space object</big></center>
+|}
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+!Random system
+|-
+|<center><big>Federation space object</big></center>
+|}
+
+FEDERATION PLANETS
+
+[[Kolan]] in the [[Sanddown]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Sanddown]]
+|-
+|{{Nova spob 202}}
+|}
+
+[[GLi-Tech-nia]] in the [[Rimshot]]
+
+[[Earth]] in the [[Sol]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Sol]]
+|-
+|{{Nova spob 128}}
+|}
+
+[[GLi-Tech-nia]] in the [[Rimshot]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Rimshot]]
+|-
+|{{Nova spob 216}}
+|}
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+![[Rimshot]]
+|-
+|{{Nova spob 216}}
+|}
+
+[[New England]] in the [[Wolf 359]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Wolf 359]]
+|-
+|{{Nova spob 138}}
+|}
+
+[[Rebel II]] in the [[Koria]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Koria]]
+|-
+|{{Nova spob 421}}
+|}
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+![[Koria]]
+|-
+|{{Nova spob 421}}
+|}
+
+[[Rebel I]] in the [[Evlei]]
+
+Merrol in the Aldebaran
+[[Merrol]] in the [[Aldebaran]]
+
+{| class="fandom-table"
+|+<center>Available at:</center>
+![[Aldebaran]]
+|-
+|{{Nova spob 171}}
+|}
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+![[Aldebaran]]
+|-
+|{{Nova spob 171}}
+|}
+
+Las Vegas in the Vega
+[[Las Vegas]] in the [[Vega]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Vega]]
+|-
+|{{Nova spob 140}}
+|}
+
+Menin in the Lesten
+[[Menin]] in the [[Lesten]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Lesten]]
+|-
+|{{Nova spob 149}}
+|}
+
+[[New Ireland]] in the [[Tuatha]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Tuatha]]
+|-
+|{{Nova spob 139}}
+|}
+
+[[Port Kane]] in the [[Kania]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Kania]]
+|-
+|{{Nova spob 137}}
+|}
+
+[[Misfire]] in the [[Trishka]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Trishka]]
+|-
+|{{Nova spob 211}}
+|}
+
+[[Viking]] in the [[Tichel]]
+
+[[Spacedock III]] in the [[Alphara]]
+
+[[Codec]] in the [[Codehaven]]
+
+[[Serenity]] in the [[Lotus]]
+
+[[Dunroamin]] in the [[Journey's End]]
+
+[[Boral I]] in the [[Arcturus]]
+
+[[Outcast]] in the [[Aral]]
+
+[[Rauther]] in the [[Rautherion]]
+
+[[Altia]] in the [[Altair]]
+
+[[Lodestone]] in the [[Fire]]
+
+[[Spacedock V]] in the [[Nesre Secundus]]
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+![[Nesre Secundus]]
+|-
+|{{Nova spob 150}}
+|}
+
+[[Harbor]] in the [[Scheall]]
+
+{| class="fandom-table"
+|+<center>Return to:</center>
+![[Scheall]]
+|-
+|{{Nova spob 422}}
+|}
+
+[[Ryll]] in the [[Porto Rillia]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Porto Rillia]]
+|-
+|{{Nova spob 195}}
+|}
+
+POLARIS PLANETS
+
+[[Nil'a Mjolnir]] in the [[Mjolnir]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Mjolnir]]
+|-
+|{{Nova spob 220}}
+|}
+
+[[Mu'ar Haro]] in the [[Mu'hari (system)|Mu'hari]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Mu'hari (system)|Mu'hari]]
+|-
+|{{Nova spob 267}}
+|}
+
+[[Kel'ar Iy]] in the [[Kel'ariy (system)|Kel'ariy]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Kel'ariy (system)|Kel'ariy]]
+|-
+|{{Nova spob 254}}
+|}
+
+[[Nil'ar Kemorya]] in the [[Nil'kemorya (system)|Nil'kemorya]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Nil'kemorya (system)|Nil'kemorya]]
+|-
+|{{Nova spob 232}}
+|}
+
+[[Ar'za Iusia]] in the [[Za'iuso]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Za'iuso]]
+|-
+|{{Nova spob 249}}
+|}
+
+[[P'ar Aed]] in the [[P'aedt (system)|P'aedt]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[P'aedt (system)|P'aedt]]
+|-
+|{{Nova spob 286}}
+|}
+
+[[Ver'a Se]] in the [[Ver'roqi]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Ver'roqi]]
+|-
+|{{Nova spob 270}}
+|}
+
+[[Ver'a Shan]] in the [[Ver'ashan]]
+
+
+[[Tre'ar Erma]] in the [[Tre'erman]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Tre'erman]]
+|-
+|{{Nova spob 290}}
+|}
+
+AURORAN PLANETS
+
+[[Moash (Moash)|Moash]] in the [[Moash (system)|Moash]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Moash (system)|Moash]]
+|-
+|{{Nova spob 380}}
+|}
+
+[[Heraan (Heraan)|Heraan]] in the [[Heraan (system)|Heraan]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Heraan (system)|Heraan]]
+|-
+|{{Nova spob 360}}
+|}
+
+[[Dominance]] in the [[Heraan Cov]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Heraan Cov]]
+|-
+|{{Nova spob 353}}
+|}
+
+[[Aurora (Aurora)|Aurora]] in the [[Aurora (system)|Aurora]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Aurora (system)|Aurora]]
+|-
+|{{Nova spob 338}}
+|}
+
+[[Cunjo]] in the [[Sender]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Sender]]
+|-
+|{{Nova spob 297}}
+|}
+
+[[Rimerta]] in the [[Pimen]]
+
+{| class="fandom-table"
+|+<center>Available from:</center>
+![[Pimen]]
+|-
+|{{Nova spob 335}}
+|}
+
+VELLOS PLANETS
+
+[[Vellos]] in the [[Vellos (system)|Vellos]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Vellos (system)|Vellos]]
+|-
+|{{Nova spob 408}}
+|}
+
+[[Korell]] in the [[Korell (system)|Korell]]
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Korell (system)|Korell]]
+|-
+|{{Nova spob 407}}
+|}
+
+SHIP GOAL
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+!Lalande 21185
+|-
+|<center><big>Destroy Dan McGraw's ship</big></center>
+|}
+
+{| class="fandom-table"
+|+<center>Defend:</center>
+!Lalande 21185
+|-
+|<center><big>Destroy Dan McGraw's ship</big></center>
+|}

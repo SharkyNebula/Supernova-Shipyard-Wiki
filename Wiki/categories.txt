@@ -1,0 +1,15 @@
+https://github.com/SharkyNebula/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Ship/Faction/Preview.png
+
+https://github.com/SharkyNebula/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Anaconda/Civilian/Hail.png
+
+Lifeboat 80
+Fighter 100
+Gunship 120
+Corvette 140
+Frigate 160
+Destroyer 180
+Cruiser 200
+Titan 240
+Carrier 220
+
+https://github.com/SharkyNebula/SuperNova-Shipyard-Source/blob/main/Blends%20-%20Ships/Troop%20Shuttles/Salamander/Civilian/Hail.png

@@ -1,0 +1,171 @@
+<!-- Table for linking to related ships. -->
+{| class="article-table" cellspacing="1" cellpadding="1" border="1" align="center"
+|-
+! scope="col" style="text-align: center;"|Auroran Fighter
+! scope="col" style="text-align: center;"|Auroran Bomber
+|-
+! scope="col" style="text-align: center;"|[[Firebird|Firebird]]
+! scope="col" style="text-align: center;"|[[Phoenix|Phoenix]]
+|}
+
+<!-- Infobox that contains some information on availability, and stats that apply to all the variants. -->
+{{Nova Ship
+|title1=Firebird
+|image1=Firebird Splash.png
+|long_name=Auroran Industries Firebird
+|subtitle=Thamgiir Class
+|ship_class={{Nova Interceptors}}
+|inherent_govt={{Nova govt 129}} (Used for Attributes Inheritance)
+|buy/hire=
+|cost=
+|tech_level=[[:Category:Nova Ship 17|Tech Level 17]]
+|displays_vitals=Yes
+|crew=1
+|mass=12t
+|length=8m
+|bits_needed=b206 ([[Heraan_Storyline/Main_Story#Head_to_Gungungun_to_be_Initiated|Head to Gungungun]])}}
+
+<!-- sentence that lists the ship name, faction and game -->
+
+<!-- Buy desc placed at start of article. Description transcluded via template -->
+{{Quote
+ | quote   = {{ Override desc 13014}}
+| speaker   = Buying a {{BASEPAGENAME}}
+}}
+
+<!-- quick opinion on ship goes here -->
+<quick opinion>
+
+==Stats==
+===BaseShip (#xxx)===
+For this base model only, stat changes are relative to the .
+
+
+===Shipyard Variants===
+====Poorly maintained Second-hand (#xxx)====
+====Well maintained Second-hand (#xxx)====
+
+
+===Wild Variants===
+Shipvariant stat changes are relative to the stats of the basic model. The basic model is .
+
+The following shipvariants are unavailable in the shipyard and must be captured in the field.
+====ShipVariant (#xxx)====
+
+
+===Technical Variants===
+The following shipvariant is unavailable in the shipyard and serves a particular gameplay purpose.
+====ShipVariant (#xxx)====
+It appears in two "advanced" düdes for the Pirates and Marauders. [[b8888]] is activated when the player acquires a capable ship, so this shipvariant serves the purpose of filling up the galaxy with more fodder pirates when the player is ready.
+
+
+===Technical Variants===
+The following shipvariant is unavailable in the shipyard and serves a particular visual purpose.
+====Ship Variant 1 (#xxx)====
+This shipvariant moves between space objects in the system. You can observe this behavior in the [[Rautherion]] system.
+
+
+===Cloaking Variants===
+As the game progresses,  begin to carry [[Cloaking Organ]]s.
+
+===Hyperspace Drifting Variants===
+As the game progresses,  begin to carry [[Cloaking Organ]]s and [[Tunneling Organ]]s.
+
+
+Stat changes are relative to the stats of the basic model. The basic model is .
+
+
+{{Color|Green|(+50)}}
+{{Color|Red|(-50)}}
+
+
+{{UnCollapsed box|Title=Stats|Body=
+<div style="column-count:2;-moz-column-count:2;-webkit-column-count:2">
+* Appear on: 
+* To purchase: 
+* ''Purchase/Hire Appearance %:'' 
+* ''[[Ships by Cost (EV Nova)|Purchase Cost]]:'' 
+* ''Hire Cost:'' k/upfront k/day
+* ''Upgrade:'' 
+* ''Upgrade Cost:'' 
+* [[File:Nova pict 6070 thumb.png|link=Ships by Speed (EV Nova)]] ''Speed:'' 
+* [[File:Nova pict 6069 thumb.png|link=Ships by Acceleration (EV Nova)]] ''Acceleration:'' 
+* [[File:Nova pict 6072 thumb.png|link=Ships by Turning (EV Nova)]] ''Turning:'' 
+* [[File:Nova pict 6067 thumb.png|link=Ships by Shields (EV Nova)]] ''Shields:'' 
+* [[File:Nova pict 6065 thumb.png|link=Ships by Shield Regen (EV Nova)]] ''Shield Regen:'' 
+* [[File:Nova pict 6065 thumb.png|link=Ships by Shield Regen (EV Nova)]] ''Shield Recharge per second:'' 
+* [[File:Nova pict 6065 thumb.png|link=Ships by Shield Regen (EV Nova)]] ''Minutes to recharge Shields:'' 
+* [[File:Nova pict 6052 thumb.png|link=Ships by Armor (EV Nova)]] ''Armor:'' 
+* [[File:Nova pict 6055 thumb.png|link=Ships by Armor Regen (EV Nova)]] ''Armor Regen:''
+* [[File:Nova pict 6055 thumb.png|link=Ships by Armor (EV Nova)]] ''Armor Recharge per second:'' 
+* [[File:Nova pict 6055 thumb.png|link=Ships by Armor (EV Nova)]] ''Minutes to recharge Armor:'' 
+* [[File:Nova pict 6309 thumb.png|link=Ships by Armor Threshold (EV Nova)]] ''Disabled at Armor %:'' 
+* [[File:Nova pict 6309 thumb.png|link=Ships by Armor Threshold (EV Nova)]] ''Pre-disabled Armor:'' 
+* [[File:Nova pict 6309 thumb.png|link=Ships by HP (EV Nova)]] ''Total Fighting HP:'' 
+* [[File:Nova pict 6134 thumb.png|link=Ships by Max Ion (EV Nova)]] ''Max Ion:'' 
+* [[File:Nova pict 6134 thumb.png|link=Ships by Deionize (EV Nova)]] ''Deionize:'' 
+* [[File:Nova pict 6062 thumb.png|link=Ships by Outfit Space (EV Nova)]] ''Total Outfits Space:'' 
+* [[File:Nova pict 6062 thumb.png|link=Ships by Outfit Space (EV Nova)]] ''Free Outfit Space:'' 
+* [[File:Nova pict 6061 thumb.png|link=Ships by Cargo Space (EV Nova)]] ''Cargo Space:'' 
+* [[File:Nova pict 6001 thumb.png|link=Ships by Max Guns (EV Nova)]] ''Max Guns:''
+* [[File:Nova pict 6001 thumb.png|link=Guns (EV Nova)]] ''Guns:'' 
+* [[File:Nova pict 6003 thumb.png|link=Ships by Max Turrets (EV Nova)]] ''Max Turrets:'' 
+* [[File:Nova pict 6003 thumb.png|link=Turrets (EV Nova)]] ''Turrets:'' 
+* [[File:Nova pict 6008 thumb.png|link=Missiles (EV Nova)]] ''Missiles:'' 
+* [[File:Nova pict 6030 thumb.png|link=Fighters (EV Nova)]] ''Fighters:'' 
+* [[File:Nova pict 6056 thumb.png|link=Outfits (EV Nova)]] ''Outfits:'' 
+* [[File:Nova pict 6128 thumb.png|link=Ships by Energy (EV Nova)]] ''Energy:'' 
+* [[File:Nova pict 6049 thumb.png|link=Ships by Fuel Generation (EV Nova)]] ''Fuel Generation:''
+* [[File:Nova pict 6053 thumb.png|link=Ships by Mass (EV Nova)]] ''Mass:'' 
+* [[File:Nova pict 6074 thumb.png|link=Ships by Jump Time (EV Nova)]] ''Jump Time:'' 
+* [[File:Nova pict 6073 thumb.png|link=Ships by Jump Speed (EV Nova)]] ''Jump Speed:''
+* [[File:Nova pict 6139 thumb.png|link=Ships by Fast Jumping (EV Nova)]] ''Hyperspace Drifting?''
+* [[File:Nova pict 6097 thumb.png|link=Ships by Physics Mode (EV Nova)]] ''Inertia:'' 
+* [[File:Nova pict 6186 thumb.png|link=Ships by Length (EV Nova)]] ''Length:'' 
+* [[File:Nova pict 6099 thumb.png|link=Ships by Crew (EV Nova)]] ''Crew:'' 
+* ''Targetable by PD?:'' 
+* ''Escape Ship?:'' 
+* ''[[Ships by Strength (EV Nova)|Strength]]:'' 
+* ''AI Type:'' 
+</div>
+}}
+
+
+
+==Gameplay Analysis==
+[[File:Viper_Shipyard.png|thumb]]
+
+<!-- "In depth" commentary goes here -->
+
+
+
+
+==Images==
+<!-- Ship art credit goes here. -->
+
+===Appearance===
+<!-- Describing the ship goes here. -->
+<ship description>
+===Ship Spins===
+<!-- Technical info on the spritesheets goes here. -->
+This ship has 36 frames per set and 3 sets for 108 frames in total. It banks when turning in one direction for a certain amount of time. It unfolds when firing.
+This ship has one set with 36 frames.
+
+* Ship: 32x32
+* Lights: 64x64
+* Engine: 64x64
+
+<!-- Ship animations, made in aseprite. Banking left frames have been reversed and engine, light, weapon glow layers use the Screen blend mode. -->
+
+===Representative Images===
+
+===Additional Images===
+
+
+
+
+
+<!-- Variants subpage should be replaced with this -->
+#redirect [[Page title#Stats]]
+<!-- Images subpage should be replaced with this -->
+#redirect [[Page title#Images]]

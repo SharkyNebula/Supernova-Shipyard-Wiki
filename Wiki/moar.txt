@@ -1,0 +1,23 @@
+{| class="article-table" cellspacing="1" cellpadding="1" border="1" align="center"
+|-
+! colspan="2" |<center>MAKE YOUR CHOICE!</center> 
+|-
+
+{| class="article-table" cellspacing="1" cellpadding="1" border="1" align="center"
+|-
+! colspan="2" |<center>ROLL THE DICE!</center> 
+|-
+
+{| class="article-table" cellspacing="1" cellpadding="1" border="1" align="center"
+|-
+! colspan="2" |<center>The story continues...</center> 
+|-
+
+
+Repeating Food Drops are totally optional.
+
+Repeating Equipment Drops are totally optional.
+
+Repeating Rebel extractions are totally optional.
+
+Repeating Rebel insertions are totally optional.
