@@ -1,0 +1,169 @@
+<nowiki>|</nowiki>
+
+''mission #668''
+=====Offer=====
+{| class="fandom-table"
+|+<center>Available from</center>
+![[Tichel]]
+|-
+|{{Nova spob 157}}
+|-
+|Bar, 75%, [[Combat rating]] 0 (No Ability)
+|-
+|AvailBits: <code></code>
+|}
+
+
+150 (Fair Ability+150%)
+700 (Fair Ability+175%)
+1300 (Competent+163%)
+2500 (Very Competent+156%)
+10000 (Dangerous+156%)
+12500 (Deadly*97%)
+
+|-
+|Spaceport, 100%, [[Combat rating]] 0 (No Ability)
+|-
+|AvailBits: <code></code>
+|}
+
+|-
+|Outfitter, 50%, Legal status 2, [[Combat rating]] 150 (Fair Ability+150%)
+|-
+|AvailBits: <code></code>
+|}
+
+<nowiki>|</nowiki>
+
+=====Refusal=====
+{| class="fandom-table"
+!<center>On refusal</center>
+|<code></code>
+|}
+
+
+=====Briefing=====
+{| class="fandom-table"
+!<center>On accept</center>
+|<code></code>
+|}
+
+=====While active=====
+{| class="fandom-table"
+!<center>On failure/abort</center>
+|<code></code>
+|}
+
+{| class="fandom-table"
+!<center>On abort</center>
+|<code></code>
+|}
+
+{| class="fandom-table"
+!<center>On failure/</center>
+|<code></code>
+|}
+
+{| class="fandom-table"
+!<center>On failure</center>
+|<code></code>
+|-
+!<center>On abort</center>
+|<code></code>
+|}
+
+{| class="fandom-table"
+|+<center>Travel to:</center>
+!Random Family Heraan space object's system
+|-
+|<center><big>Destroy Moash</big></center>
+|}
+
+=====Loading Cargo=====
+{| class="fandom-table"
+|+<center>Travel to:</center>
+![[Sol]]
+|-
+|{{Nova spob 128}}
+|-
+|5 tons of data crystals, [[Scan_masks_(EVN)|illegal to 'B']]
+|}
+
+{| class="fandom-table"
+!<center>Cargo</center>
+|<code>10 tons of cargo, [[Scan_masks_(EVN)|illegal to 'B']]</code>
+|}
+=====Dropping Cargo=====
+
+=====Completion=====
+{| class="fandom-table"
+!<center>On success</center>
+|<code></code>
+|}
+
+{| class="fandom-table"
+!<center>On success</center>
+|<code></code>
+|-
+!<center>Payment</center>
+|10,000 credits
+|-
+!<center>Legal changes</center>
+| +1 with 
+|}
+
+
+
+
+{| class="fandom-table"
+!<center>On shipdone</center>
+|<code></code>
+|}
+
+{| class="fandom-table"; style="color: red;"
+|+<center>'''Opposition'''</center>
+!<center>Special Ships</center>
+|<code>5 ships of type ''Large Moash War Ships'' that follow and attack the player </code>
+|-
+!<center>Düdes</center>
+|<code>{{Collapsed box|Title=Large Moash War Ships|Body={{Nova Dude 161}}}}</code>
+|}
+
+{| class="fandom-table"; style="color: red;"
+|+<center>'''Opposition'''</center>
+!<center>Special Ships</center>
+|<code>5 ships of type ''Lone Big Federation Ship'' that follow and attack the player </code>
+|-
+!<center>Düdes</center>
+|<code>{{Collapsed box|Title=Lone Big Federation Ship|Body={{Nova Dude 130}}}}</code>
+|}
+
+{| class="fandom-table"; style="color: red;"
+|+<center>'''Opposition'''</center>
+!<center>Special Ships</center>
+|<code>5 ships of type ''Pirates '' that follow and attack the player </code>
+|-
+!<center>Auxiliary Ships</center>
+|<code>2 ships of type ''Pirates '' that infinitely regenerate</code>
+|-
+!<center>Düdes</center>
+|<code>{{Collapsed box|Title=Pirates|Body={{Nova Dude 133}}}}</code>
+|}
+
+{| class="fandom-table"; style="color: gray;"
+|+<center>'''Window dressing'''</center>
+!<center>Special Ships</center>
+|<code>6 ships of type ''Association - disabled''</code>
+|-
+!<center>Düdes</center>
+|<code>{{Collapsed box|Title=Association - disabled|Body={{Nova Dude 227}}}}</code>
+|}
+
+{| class="fandom-table"; style="color: green;"
+|+<center>'''Allies'''</center>
+!<center>Special Ships</center>
+|<code>6 ships of type ''Pirates '' that jump in after a delay and protect the player </code>
+|-
+!<center>Düdes</center>
+|<code>{{Collapsed box|Title=Pirates|Body={{Nova Dude 266}}}}</code>
+|}
